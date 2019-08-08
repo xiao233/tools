@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: xiao.BornEntity
+Class-Path: 
+Created-By: xjli

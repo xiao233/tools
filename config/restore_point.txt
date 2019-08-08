@@ -1,0 +1,19 @@
+#记录文件还原信息，用于文件的还原
+#point_还原点key
+#function功能
+#time操作时间
+#resource源文件位置
+#backup备份位置
+#remark备注
+
+point_12=function:3|time:2019-06-19 09:26:20|resource:C:\Users\Administrator\Desktop\java_1.0|backup:user/file/backup|remark:澶囨敞
+point_1560929426361=function:1|time:2019-06-19 15:30:26|resource:2|backup:3|remark:4
+point_1560929963172=function:1|time:2019-06-19 15:39:23|resource:2|backup:3|remark:4
+point_1560933505782=function:1|time:2019-06-19 16:38:25|resource:2|backup:3|remark:4
+point_1560934040291=function:1|time:2019-06-19 16:47:20|resource:2|backup:3|remark:4
+point_1561098759135=function:4|time:2019-06-21 14:32:39|resource:C:\Users\Administrator\Desktop\IP|backup:user/disk/IP|remark:功能4.磁盘清理
+point_1561098963669=function:4|time:2019-06-21 14:36:03|resource:C:\Users\Administrator\Desktop\IP|backup:user/disk/IP|remark:功能4.磁盘清理
+point_1561100017114=function:4|time:2019-06-21 14:53:39|resource:C:\Users\Administrator\Desktop\IP3|backup:user/disk/IP3_1561100017114|remark:功能4.系统磁盘清理
+point_1561100261650=function:4|time:2019-06-21 14:57:48|resource:C:\Users\Administrator\Desktop\IP3|backup:user/disk/IP3_1561100261650|remark:功能4.系统磁盘清理
+point_1561101093195=function:4|time:2019-06-21 15:11:35|resource:C:\Users\Administrator\Desktop\IP3|backup:user/disk/IP3_1561101093195|remark:功能4.系统磁盘清理
+point_1561101216927=function:4|time:2019-06-21 15:13:39|resource:C:\Users\Administrator\Desktop\IP3|backup:user/disk/IP3_1561101216927|remark:功能4.系统磁盘清理
